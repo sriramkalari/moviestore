@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviestore/static/css/main.95551340.css",
-    "main.js": "/moviestore/static/js/main.49016157.js",
+    "main.js": "/moviestore/static/js/main.f724abe4.js",
     "static/media/search-icon-png.png": "/moviestore/static/media/search-icon-png.87241563da14f109e02c.png",
     "index.html": "/moviestore/index.html",
     "main.95551340.css.map": "/moviestore/static/css/main.95551340.css.map",
-    "main.49016157.js.map": "/moviestore/static/js/main.49016157.js.map"
+    "main.f724abe4.js.map": "/moviestore/static/js/main.f724abe4.js.map"
   },
   "entrypoints": [
     "static/css/main.95551340.css",
-    "static/js/main.49016157.js"
+    "static/js/main.f724abe4.js"
   ]
 }
